@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey i am hathim:)<br><br>Interested in Cybersecurity and how programming plays a role in securing systems.<br><br>Exploring data structures & algorithms.<br><br>Working on fun projects and open-source contributions.<br><br>I am currently learning and working with C, C++, Python, and Java.<br><br>
+Hey i am Hathim:)<br><br>Interested in Cybersecurity and how programming plays a role in securing systems.<br><br>Exploring data structures & algorithms.<br><br>Working on fun projects and open-source contributions.<br><br>I am currently learning and working with C, C++, Python, and Java.<br><br>
 
 
 ## 🌐 Socials:
